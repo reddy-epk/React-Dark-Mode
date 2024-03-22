@@ -1,4 +1,4 @@
-Building a **Light Dark Mode** 
+Building a React **Light Dark Mode**  with render() method.
 
 ### Refer to the image below:
 
